@@ -1,0 +1,22 @@
+
+		
+		<form method="post" action="C_Register/submitRegister">
+
+
+			<label> Nama Admin : </label>
+				<input type="text" name="nama" placeholder="Masukan Nama Admin "> </br>
+			<label> Email : </label>
+				<input type="text" name="email"> </br>
+			<label> Username : </label>
+				<input type="text" name="username">
+			<label> Password : </label>
+				<input type="password" name="password">
+
+			<input type="submit" value="submit">
+
+		</form>
+
+	</body>
+
+
+</html>
